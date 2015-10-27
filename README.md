@@ -43,17 +43,17 @@
 
 - Coordinate System:
     - Front:
-        + ![front_coord](./imgs/front_coord.png =400x300)
+        + <img src="imgs/front_coord.png" alt='front' width=400 height=300>
     - Back:
-        + ![back_coord](./imgs/back_coord.png =400x300)
+        + <img src="imgs/back_coord.png" alt='back' width=400 height=300>
     - Right:
-        + ![right_coord](./imgs/right_coord.png =400x300)
+        + <img src="imgs/right_coord.png" alt='right' width=400 height=300>
     - Left:
-        + ![left_coord](./imgs/left_coord.png =400x300)
+        + <img src="imgs/left_coord.png" alt='left' width=400 height=300>
     - Top
-        + ![top_coord](./imgs/top_coord.png =400x300)
-    - Botton:
-        + ![bottom_coord](./imgs/bottom_coord.png =400x300)
+        + <img src="imgs/top_coord.png" alt='top' width=400 height=300>
+    - Bottom:
+        + <img src="imgs/bottom_coord.png" alt='bottom' width=400 height=300>
 
 - Search: `<space>` 
 
