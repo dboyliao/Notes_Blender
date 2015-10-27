@@ -42,6 +42,8 @@
     - `t`: transforms and other related tools. 
 
 - Coordinate System:
+    - Overview:
+        + <img src='imgs/coord_sys.jpeg' alt='overview' width=600 height=450>
     - Front:
         + <img src="imgs/front_coord.png" alt='front' width=600 height=450>
     - Back:
@@ -56,6 +58,15 @@
         + <img src="imgs/bottom_coord.png" alt='bottom' width=600 height=450>
 
 - Search: `<space>` 
+
+- Switching Modes:
+    + `<tab>`: Edit Mode
+    + `Ctr + <tab>`: Select Mesh select mode
+
+- Short Cuts:
+    + `Ctr + r`: loop cut.
+    + `g`: Grap mode
+    + `s`: Scale mode
 
 ## Settings
 
@@ -87,4 +98,7 @@
 # References
 
 - [Blender Character Modeling](https://www.youtube.com/watch?v=0QT1GNMevfc)
+- [BVHTree](https://en.wikipedia.org/wiki/Bounding_volume_hierarchy)
 - [bpy Module](http://www.blender.org/api/blender_python_api_2_76_1/)
+- [Hot Keys](http://wiki.blender.org/index.php/Doc:2.4/Reference/Hotkeys/All)
+- [Select Multiple Edges](http://wiki.blender.org/index.php/Doc:2.4/Manual/Modeling/Meshes/Selecting/Edges)
