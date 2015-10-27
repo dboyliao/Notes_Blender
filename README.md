@@ -1,6 +1,6 @@
 # Notes for Blender
 
-- author: dboyliao <qmalliao@gmail.com>
+- author: dboyliao `<qmalliao@gmail.com>`
 
 ## Basic Navigation
 
@@ -43,12 +43,17 @@
 
 - Coordinate System:
     - Front:
-        + ![front_coord](imgs/front_coord.png =400x300)
-        + ![back_coord](imgs/back_coord.png =400x300)
-        + ![right_coord](imgs/right_coord.png =400x300)
-        + ![left_coord](imgs/left_coord.png =400x300)
-        + ![top_coord](imgs/top_coord.png =400x300)
-        + ![botton_coord](imgs/botton_coord.png =400x300)
+        + ![front_coord](./imgs/front_coord.png =400x300)
+    - Back:
+        + ![back_coord](./imgs/back_coord.png =400x300)
+    - Right:
+        + ![right_coord](./imgs/right_coord.png =400x300)
+    - Left:
+        + ![left_coord](./imgs/left_coord.png =400x300)
+    - Top
+        + ![top_coord](./imgs/top_coord.png =400x300)
+    - Botton:
+        + ![bottom_coord](./imgs/bottom_coord.png =400x300)
 
 - Search: `<space>` 
 
