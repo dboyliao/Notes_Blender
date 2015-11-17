@@ -4,3 +4,5 @@
 ## python ##
 *.pyc
 
+## 3D model files ##
+models
